@@ -1,5 +1,6 @@
 ---
 title: Past
+displaytext: Past Events
 tags: LATAM
 tab: true
 layout: null
