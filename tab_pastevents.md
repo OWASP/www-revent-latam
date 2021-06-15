@@ -1,8 +1,8 @@
 ---
 title: Past events
-tags: OWASP-LATAM
+tags: LATAM
 tab: true
-layout:  null
+layout: null
 order: 2
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: col-sidebar
 title: OWASP LATAM
-tags: OWASP-LATAM
+tags: LATAM
 pitch: The OWASP LATAM events are a series of events organized by the OWASP Latin American chapters
 ---
 
